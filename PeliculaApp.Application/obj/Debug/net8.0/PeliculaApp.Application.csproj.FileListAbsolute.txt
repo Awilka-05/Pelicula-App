@@ -1,0 +1,15 @@
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\bin\Debug\net8.0\PeliculaApp.Application.deps.json
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\bin\Debug\net8.0\PeliculaApp.Application.dll
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\bin\Debug\net8.0\PeliculaApp.Application.pdb
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\bin\Debug\net8.0\PeliculaApp.Domain.dll
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\bin\Debug\net8.0\PeliculaApp.Domain.pdb
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\PeliculaApp.Application.csproj.AssemblyReference.cache
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\PeliculaApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\PeliculaApp.Application.AssemblyInfoInputs.cache
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\PeliculaApp.Application.AssemblyInfo.cs
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\PeliculaApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\Pelicula.81311B0F.Up2Date
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\PeliculaApp.Application.dll
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\refint\PeliculaApp.Application.dll
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\PeliculaApp.Application.pdb
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Application\obj\Debug\net8.0\ref\PeliculaApp.Application.dll

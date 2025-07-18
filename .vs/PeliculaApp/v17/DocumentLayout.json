@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|PeliculaApp.Frontend{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|PeliculaApp.Frontend{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27224086-1B4E-4C8E-BCB7-C447474B6902}|PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.infrastructure\\context\\peliculadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27224086-1B4E-4C8E-BCB7-C447474B6902}|PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj|solutionrelative:peliculaapp.infrastructure\\context\\peliculadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|PeliculaApp.Frontend{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|PeliculaApp.Frontend{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|PeliculaApp.Frontend{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|PeliculaApp.Frontend{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.api\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|solutionrelative:peliculaapp.api\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|solutionrelative:peliculaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.api\\peliculaapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|solutionrelative:peliculaapp.api\\peliculaapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|solutionrelative:peliculaapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B16B089-3535-4F09-B887-9DA25AB008D1}|PeliculaApp.Domain\\PeliculaApp.Domain.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.domain\\entities\\repositories\\ipelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B16B089-3535-4F09-B887-9DA25AB008D1}|PeliculaApp.Domain\\PeliculaApp.Domain.csproj|solutionrelative:peliculaapp.domain\\entities\\repositories\\ipelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}|PeliculaApp.Application\\PeliculaApp.Application.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.application\\services\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}|PeliculaApp.Application\\PeliculaApp.Application.csproj|solutionrelative:peliculaapp.application\\services\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}|PeliculaApp.Application\\PeliculaApp.Application.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.application\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}|PeliculaApp.Application\\PeliculaApp.Application.csproj|solutionrelative:peliculaapp.application\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27224086-1B4E-4C8E-BCB7-C447474B6902}|PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.infrastructure\\repositories\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27224086-1B4E-4C8E-BCB7-C447474B6902}|PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj|solutionrelative:peliculaapp.infrastructure\\repositories\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B16B089-3535-4F09-B887-9DA25AB008D1}|PeliculaApp.Domain\\PeliculaApp.Domain.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.domain\\validaciones\\validadorpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B16B089-3535-4F09-B887-9DA25AB008D1}|PeliculaApp.Domain\\PeliculaApp.Domain.csproj|solutionrelative:peliculaapp.domain\\validaciones\\validadorpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B16B089-3535-4F09-B887-9DA25AB008D1}|PeliculaApp.Domain\\PeliculaApp.Domain.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.domain\\entities\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B16B089-3535-4F09-B887-9DA25AB008D1}|PeliculaApp.Domain\\PeliculaApp.Domain.csproj|solutionrelative:peliculaapp.domain\\entities\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|solutionrelative:peliculaapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27224086-1B4E-4C8E-BCB7-C447474B6902}|PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.infrastructure\\peliculaapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27224086-1B4E-4C8E-BCB7-C447474B6902}|PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj|solutionrelative:peliculaapp.infrastructure\\peliculaapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B16B089-3535-4F09-B887-9DA25AB008D1}|PeliculaApp.Domain\\PeliculaApp.Domain.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.domain\\validaciones\\ivalidarpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B16B089-3535-4F09-B887-9DA25AB008D1}|PeliculaApp.Domain\\PeliculaApp.Domain.csproj|solutionrelative:peliculaapp.domain\\validaciones\\ivalidarpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|c:\\users\\o.o\\onedrive\\escritorio\\p2\\peliculaapp\\peliculaapp.api\\peliculaapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{79EA0080-504F-435F-B758-4416DB509070}|PeliculaApp.API\\PeliculaApp.API.csproj|solutionrelative:peliculaapp.api\\peliculaapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-17T02:40:49.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\script.js",
+              "RelativeDocumentMoniker": "script.js",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\script.js",
+              "RelativeToolTip": "script.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-17T02:42:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Infrastructure\\Context\\PeliculaDbContext.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.Infrastructure\\Context\\PeliculaDbContext.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Infrastructure\\Context\\PeliculaDbContext.cs",
+              "RelativeToolTip": "PeliculaApp.Infrastructure\\Context\\PeliculaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:03:18.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\Program.cs",
+              "RelativeToolTip": "PeliculaApp.API\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:59:53.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\estilos.css",
+              "RelativeDocumentMoniker": "estilos.css",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\estilos.css",
+              "RelativeToolTip": "estilos.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-17T02:43:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.API\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "PeliculaApp.API\\Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:07:22.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeliculaApp.API",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\PeliculaApp.API.csproj",
+              "RelativeDocumentMoniker": "PeliculaApp.API\\PeliculaApp.API.csproj",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\PeliculaApp.API.csproj",
+              "RelativeToolTip": "PeliculaApp.API\\PeliculaApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T20:43:40.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PeliculaApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PeliculaApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T05:36:40.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Application\\Services\\IPeliculaService.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.Application\\Services\\IPeliculaService.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Application\\Services\\IPeliculaService.cs",
+              "RelativeToolTip": "PeliculaApp.Application\\Services\\IPeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:02:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidadorPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Domain\\Validaciones\\ValidadorPelicula.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.Domain\\Validaciones\\ValidadorPelicula.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Domain\\Validaciones\\ValidadorPelicula.cs",
+              "RelativeToolTip": "PeliculaApp.Domain\\Validaciones\\ValidadorPelicula.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:08:10.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPeliculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Domain\\Entities\\Repositories\\IPeliculaRepository.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.Domain\\Entities\\Repositories\\IPeliculaRepository.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Domain\\Entities\\Repositories\\IPeliculaRepository.cs",
+              "RelativeToolTip": "PeliculaApp.Domain\\Entities\\Repositories\\IPeliculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:00:29.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeliculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Infrastructure\\Repositories\\PeliculaRepository.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.Infrastructure\\Repositories\\PeliculaRepository.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Infrastructure\\Repositories\\PeliculaRepository.cs",
+              "RelativeToolTip": "PeliculaApp.Infrastructure\\Repositories\\PeliculaRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:03:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Application\\Services\\PeliculaService.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.Application\\Services\\PeliculaService.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Application\\Services\\PeliculaService.cs",
+              "RelativeToolTip": "PeliculaApp.Application\\Services\\PeliculaService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:02:07.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Domain\\Entities\\Pelicula.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.Domain\\Entities\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Domain\\Entities\\Pelicula.cs",
+              "RelativeToolTip": "PeliculaApp.Domain\\Entities\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:00:03.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PeliculaApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\appsettings.json",
+              "RelativeToolTip": "PeliculaApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T03:38:33.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IValidarPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Domain\\Validaciones\\IValidarPelicula.cs",
+              "RelativeDocumentMoniker": "PeliculaApp.Domain\\Validaciones\\IValidarPelicula.cs",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Domain\\Validaciones\\IValidarPelicula.cs",
+              "RelativeToolTip": "PeliculaApp.Domain\\Validaciones\\IValidarPelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:07:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PeliculaApp.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj",
+              "RelativeToolTip": "PeliculaApp.Infrastructure\\PeliculaApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T12:47:29.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PeliculaApp.API.http",
+              "DocumentMoniker": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\PeliculaApp.API.http",
+              "RelativeDocumentMoniker": "PeliculaApp.API\\PeliculaApp.API.http",
+              "ToolTip": "C:\\Users\\o.o\\OneDrive\\Escritorio\\p2\\PeliculaApp\\PeliculaApp.API\\PeliculaApp.API.http",
+              "RelativeToolTip": "PeliculaApp.API\\PeliculaApp.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-17T03:59:51.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\bin\Debug\net8.0\PeliculaApp.Domain.deps.json
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\bin\Debug\net8.0\PeliculaApp.Domain.dll
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\bin\Debug\net8.0\PeliculaApp.Domain.pdb
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\obj\Debug\net8.0\PeliculaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\obj\Debug\net8.0\PeliculaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\obj\Debug\net8.0\PeliculaApp.Domain.AssemblyInfo.cs
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\obj\Debug\net8.0\PeliculaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\obj\Debug\net8.0\PeliculaApp.Domain.dll
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\obj\Debug\net8.0\refint\PeliculaApp.Domain.dll
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\obj\Debug\net8.0\PeliculaApp.Domain.pdb
+C:\Users\o.o\OneDrive\Escritorio\p2\PeliculaApp\PeliculaApp.Domain\obj\Debug\net8.0\ref\PeliculaApp.Domain.dll

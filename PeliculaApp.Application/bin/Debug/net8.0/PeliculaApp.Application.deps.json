@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PeliculaApp.Application/1.0.0": {
+        "dependencies": {
+          "PeliculaApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PeliculaApp.Application.dll": {}
+        }
+      },
+      "PeliculaApp.Domain/1.0.0": {
+        "runtime": {
+          "PeliculaApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeliculaApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeliculaApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

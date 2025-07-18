@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliculaApp.Domain", "PeliculaApp.Domain\PeliculaApp.Domain.csproj", "{8B16B089-3535-4F09-B887-9DA25AB008D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliculaApp.Application", "PeliculaApp.Application\PeliculaApp.Application.csproj", "{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliculaApp.Infrastructure", "PeliculaApp.Infrastructure\PeliculaApp.Infrastructure.csproj", "{27224086-1B4E-4C8E-BCB7-C447474B6902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliculaApp.API", "PeliculaApp.API\PeliculaApp.API.csproj", "{79EA0080-504F-435F-B758-4416DB509070}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PeliculaApp.Frontend", "PeliculaApp.Frontend", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		estilos.css = estilos.css
+		index.html = index.html
+		script.js = script.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B16B089-3535-4F09-B887-9DA25AB008D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B16B089-3535-4F09-B887-9DA25AB008D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B16B089-3535-4F09-B887-9DA25AB008D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B16B089-3535-4F09-B887-9DA25AB008D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9F51A9-0578-4D25-824F-9CBA7ECB80D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27224086-1B4E-4C8E-BCB7-C447474B6902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27224086-1B4E-4C8E-BCB7-C447474B6902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27224086-1B4E-4C8E-BCB7-C447474B6902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27224086-1B4E-4C8E-BCB7-C447474B6902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EA0080-504F-435F-B758-4416DB509070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EA0080-504F-435F-B758-4416DB509070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EA0080-504F-435F-B758-4416DB509070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EA0080-504F-435F-B758-4416DB509070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E90E179-12DF-4BA8-A5A7-F435913CC8D8}
+	EndGlobalSection
+EndGlobal
