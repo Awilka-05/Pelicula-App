@@ -20,3 +20,5 @@ obj/
 
 ## Carpetas de dependencias
 packages/
+
+appsettings.json
